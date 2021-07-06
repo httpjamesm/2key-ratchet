@@ -165,7 +165,7 @@ return DKeyRatchet.PreKeyMessageProtocol.importProto(BobMessage)
     });
 ```
 
-We have a [complete example you can look at here](https://github.com/PeculiarVentures/2key-ratchet/tree/master/src/examples).
+We have a [complete example you can look at here](https://github.com/PeculiarVentures/2key-ratchet/tree/master/examples).
 
 ## Contributing
 
